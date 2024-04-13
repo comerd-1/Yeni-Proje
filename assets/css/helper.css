@@ -1,0 +1,82 @@
+.radiu-24{
+    border-radius: 24px;
+}
+
+.radiu-8{
+    border-radius: 8px;
+}
+
+.t-color{
+    color: #1C2852;
+}
+
+.t-color-2{
+    color: #ffffff;
+}
+
+.t-color-1{
+    color: #A30062;
+}
+
+.b-color{
+   background-color: #F8F4FA;
+}
+
+.font-800{
+  font-weight: 800;
+}
+
+.font-600{
+  font-weight: 600;
+}
+
+.font-400{
+  font-weight: 400;
+}
+
+.font-300{
+  font-weight: 300;
+}
+
+.lh-20{
+    line-height: 20px;
+}
+
+.lh-22{
+    line-height: 22px;
+}
+
+.lh-30{
+    line-height: 30px;
+}
+
+.f-size-14{
+    font-size: 14px;
+}
+
+.f-size-16{
+    font-size: 16px;
+}
+
+.f-size-18{
+    font-size: 18px;
+}
+
+.f-size-24{
+    font-size: 24px;
+}
+
+.f-left{
+    float: left;
+}
+
+.f-left{
+    float: left;
+}
+
+.clearfix::after{
+    content: '';
+    display: block;
+    width: 100%;
+    clear: both;
+}

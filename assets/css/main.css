@@ -1,0 +1,113 @@
+body{
+   background: linear-gradient(63.74deg, #F4F7FF 7.61%, #FFEDED 90.65%);
+    font-family: "Mulish", sans-serif;
+    
+}
+
+.card{
+    width: 606px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    border-radius: 24px;
+    padding-top: 64px;
+    padding-left: 104px;
+    padding-right: 104px;
+    position: relative;
+    box-shadow: 0px 44px 84px -60px #7113A017;
+}
+
+.card::before{
+    content: '';
+    position: absolute;
+    width: 950px;
+    top: 343px;
+    left: -178px;
+    right: 166px;
+    bottom: -103px;
+    border-radius: 50px;
+    background-color: #982C3208;
+    z-index: -1;
+}
+
+.card figure img{
+    width: 125px;
+    height: 125px;
+    box-shadow: 0px 5.075630187988281px 30.453781127929688px -12.689075469970703px #4A285B66;
+    border-radius: 9999px;
+    background-color: #F8F4FA;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 24px;
+}
+
+.title{
+    text-align: center;
+    
+}
+
+.title .tina{
+    width: 185px;
+}
+
+.title-1 h1{
+    text-align: center;
+    margin: auto;
+}
+
+.title-1 h1{
+    width: 168px;
+    margin-bottom: 19px;
+    margin-top: 19px;
+}
+
+.btn-2{
+    text-align: center;
+    margin: auto;
+    border-radius: 8px;
+}
+
+.btn-2{
+    width: 300px;
+    padding: 16px;
+    margin-bottom: 35px;
+}
+
+
+.inp-1 label{
+    display: block;
+    margin-bottom: 8px;
+}
+
+.inp-1 input{
+    width: 400px;
+    border-radius: 8px;
+    border: 1px solid #C2ADC2;
+    padding: 24px;
+    margin-bottom: 35px;
+}
+
+.inp-2 input{
+    width: 33px;
+    height: 33px;
+    border-radius: 8px;
+}
+
+.inp-2 .serv{
+    margin-left: 45px;
+}
+
+.btn-1{
+    width: 400px;
+    border: 1px solid #C2ADC2;
+    padding: 24px;
+    border-radius: 8px;
+    background-color: #A30062;
+    text-align: center;
+    margin-top: 41px;
+    margin-bottom: 56px;
+}
+
+.alredy {
+    text-align: center;
+   padding-bottom: 64px;
+}
